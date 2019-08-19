@@ -85,7 +85,7 @@ A certain set of people are often able to make it to BHT or to a topic-based soc
 Applicable for groups over 30, highly recommended after 50.
 
 ## \#Celebrations
-Humans are creatures who tend to like recognition of arbitrary cycles. We have a bot to remind us of folks’ birthdays and Trusselversaries. It also gets the gif party started. People opt in to have https://celebrationbot.com/ remind others of their birthdays or join date in a stand-alone channel to keep distractions contained.
+Humans are creatures who tend to like recognition of arbitrary cycles. We have a bot to remind us of folks’ birthdays and Trusselversaries. It also gets the gif party started. People opt in to have https://birthdaybot.io/ remind others of their birthdays or join date in a stand-alone channel to keep distractions contained.
 
 Applicable for groups of 15 and more, sooner if you don’t have someone around who cares to track dates.
 
