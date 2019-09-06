@@ -1,3 +1,34 @@
+<!-- toc -->
+
+* [Distributed-playbook](#distributed-playbook)
+* [Facilitate interactions](#facilitate-interactions)
+  * [Fully distributed meetings](#fully-distributed-meetings)
+    * [Taking stack](#taking-stack)
+    * [Side channel for banter](#side-channel-for-banter)
+  * [Collaborative, live note taking](#collaborative-live-note-taking)
+  * [Find a way to still be visual](#find-a-way-to-still-be-visual)
+  * [Always use timezones](#always-use-timezones)
+  * [Pronouns in handles](#pronouns-in-handles)
+* [Resource people correctly](#resource-people-correctly)
+  * [Working space matters](#working-space-matters)
+  * [Quality headphones matter](#quality-headphones-matter)
+  * [Employee effectiveness budget](#employee-effectiveness-budget)
+* [Bond with each other](#bond-with-each-other)
+  * [Healthy work practices](#healthy-work-practices)
+  * [Being Humans Together (BHT)](#being-humans-together-bht)
+  * [Topic-based socializing](#topic-based-socializing)
+  * [\#Colleagues-and-coffee](#%23colleagues-and-coffee)
+  * [\#Celebrations](#%23celebrations)
+  * [\#Selfies](#%23selfies)
+  * [Discretionary kindness budget](#discretionary-kindness-budget)
+* [See each other in person sometimes](#see-each-other-in-person-sometimes)
+  * [See another human within 3 months of starting work at Truss](#see-another-human-within-3-months-of-starting-work-at-truss)
+  * [If you spend time together, have a coffee or meal on Truss](#if-you-spend-time-together-have-a-coffee-or-meal-on-truss)
+  * [Offsites](#offsites)
+  * [Truss Remote Experience](#truss-remote-experience)
+
+<!-- tocstop -->
+
 # Distributed-playbook
 A playbook about how we work together as a distributed team.
 
