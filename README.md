@@ -1,4 +1,4 @@
-# Distributed-playbook
+# distributed-playbook
 A playbook about how we work together as a distributed team.
 
 Truss has been fully distributed since sometime in late 2018. We’ve learned some things. The following practices hold for up to the 75 people we are; many might be heavy handed for a group of 20 or fewer. When a practice is associated with a specific headcount, that headcount has been included.
