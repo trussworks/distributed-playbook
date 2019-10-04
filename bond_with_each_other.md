@@ -11,6 +11,9 @@ Getting distributed folk in a video in a coordinated way to talk about life outs
 
 Applicable as soon as you have 2 or more team members outside an office.
 
+## Coworking on Things We Don't Want to Do
+There are some tasks we all put off because we just plain don't want to do them. At Truss, we've tackled this by scheduling remote coworking time we fondly call, "Coworking on things we don't want to do." Somebody adds a meeting to our company calendar, usually for an hour, and the folks who opt-in keep each other company while we slog through our to-do lists. Past tasks accomplished include: filing expense reports, sorting through boxes of mail, and creating a form for an internal survey.
+
 ## Topic-based socializing
 Whether it’s crafts, a book or movie club, or playing games together, having a way to share space in a lightly structured way which prompts learning things about each other is a good move.
 
