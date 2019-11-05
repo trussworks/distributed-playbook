@@ -24,6 +24,9 @@ A certain set of people are often able to make it to BHT or to a topic-based soc
 
 Applicable for groups over 30, highly recommended after 50.
 
+### Perennial Pastry
+Some folk have fallen into more regular hangouts with each other outside of being randomly paired. Whether once a month or every other week, we fluxuate between explicitly *not* talking about work or allowing work chckins. Great for deepening relationships with far away coworkers.
+
 ## \#Celebrations
 Humans are creatures who tend to like recognition of arbitrary cycles. We have a bot to remind us of folks’ birthdays and Trusselversaries. It also gets the gif party started. People opt in to have https://birthdaybot.io/ remind others of their birthdays or join date in a stand-alone channel to keep distractions contained.
 
