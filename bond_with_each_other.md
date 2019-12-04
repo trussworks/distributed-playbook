@@ -32,11 +32,17 @@ Humans are creatures who tend to like recognition of arbitrary cycles. We have a
 
 Applicable for groups of 15 and more, sooner if you don’t have someone around who cares to track dates.
 
+## \#In-Out-Status
+This channel is our way of saying “hello” or “goodbye” as you enter or leave an office. It’s not a punchclock. It’s not specific to any given team. It’s not mandatory. It’s just a nice place to :wave:. We can wish each other to get well soon, or have a gif party here.
+
 ## \#Selfies
 Remembering that people have faces also helps us to remember that they are human. Having a selfies channel in chat reminds folk it’s ok (encouraged, even!) to post pictures of themselves, which lets us see glimpses of their lives.
 
 ## Discretionary kindness budget
-Everyone has a small, noncumulative budget to do nice things for other Trussels. We’ve sent each other stickers, coffee cups, and yarn. This helps with bonding of a distributed team in a direct way.
+Everyone has a noncumulative budget to do nice things for other Trussels as a part of their Employee Effectiveness Budget (see [Resourcing People Properly](https://github.com/trussworks/distributed-playbook/blob/master/resource_people_correctly.md#employee-effectiveness-budget). We’ve sent each other stickers, coffee cups, and yarn. This helps with bonding of a distributed team in a direct way.
+
+## Meeting up with coworkers in other locations
+When traveling, it's fun to see who is also in that area. Having a coffee or a meal together is on Truss, under the 🔒 [TDR 0037 - Employee Effectiveness Budget](https://docs.google.com/document/d/1hvie-sPwZgOw8U7W2qmCk6dzWf7TYX28_CRfFCWL_FI/edit). We've done this many times to much success!
 
 
 You can also read more in [our blog post on how to be inclusive of a distributed team](https://truss.works/blog/2018/12/5/upping-our-distributed-practices).
