@@ -24,6 +24,9 @@ The chat associated with the video conferencing software can get overwhelming to
 
 Applicable when banter outweighs stack indicators, or if you have a distractible facilitator or speaker.
 
+### Breakouts
+We often do breakouts as a chance to hear from more people, faster. Zoom has breakout room functionality which takes some practice but is ultimately very worthwhile. People can't self-assign to rooms, sadly.
+
 ## Collaborative, live note taking
 Some folk are hard of hearing, or have spotty connections, or had to join late, or just learn better by reading. By 🔒[all taking notes together](https://docs.google.com/document/d/1MyftIG3R9vKQuS8Ig_OdfmwFkEvoVQX3nKrQKlXj3Rw/edit), we both retain more as individuals and for the collective mind. We rotate and opt into note taking responsibilities as it’s no one’s job per se, but everyone benefits. Link is internal how-to reference.
 
