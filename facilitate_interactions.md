@@ -13,7 +13,7 @@ See more in our 🔒[TDR - 0012 - Truss Meetings Will Be Fully Remote By Default
 ### Taking stack
 With everyone remote, it can be difficult to tell when someone wants to speak. Eye contact and body language are already difficult in video format, and as the group goes above 9 (your number may vary based on the gelling of the group) visual cues become tiny.
 
-We pull from the activist tradition of taking “[stack](http://cultivate.coop/wiki/Taking_Stack_(Meeting_Facilitation_Technique)),” with a twist for being distributed. Participants post “reply” in the video conferencing chat to indicate they want to reply to the current point, “new” for a new topic, and “point” for point of order (keeping things on track). 
+We pull from the activist tradition of taking “[stack](https://en.wikipedia.org/wiki/Progressive_stack)),” with a twist for being distributed. Participants post “reply” in the video conferencing chat to indicate they want to reply to the current point, “new” for a new topic, and “point” for point of order (keeping things on track). 
 
 Applicable for groups of 5 if new to each other; can be forgone if the group is well gelled. 
 
