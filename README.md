@@ -3,7 +3,7 @@ COVID-19 is forcing many leaders and employees to make hard choices about remote
 
 Truss began in 2012 as a distributed company, by three founders who led virtual, distributed teams since 2004. As a company, we've learned how to evolve and scale distributed practices to nearly 100 people in over 20 states and counting. Deciding to be a distributed company continues to be one of our best business decisions.
 
-We’d like to contribute what we’ve learned about distributed work to help you make great decisions in this difficult time. We are mindful that this is a stressful time for all, and we offer this to help you navigate these tricky waters...and perhaps emerge a stronger, more resilient company.
+We’d like to share what we’ve learned about distributed work to help you make great decisions in this difficult time. We are mindful that this is a stressful time for all, and we offer this to help you navigate these tricky waters...and perhaps emerge a stronger, more resilient company.
 <!-- toc -->
 
 * [Distributed-playbook](#distributed-playbook)
