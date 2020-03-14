@@ -1,8 +1,9 @@
 # distributed-playbook
-A playbook about how we work together as a distributed team.
+COVID-19 is forcing many leaders and employees to make hard choices about remote work by necessity. We appreciate everyone who is confronting this new reality, making courageous decisions without the benefit of experience or practice. 
 
-Truss has been fully distributed since sometime in late 2018. We’ve learned some things. The following practices hold for up to the 75 people we are; many might be heavy handed for a group of 20 or fewer. When a practice is associated with a specific headcount, that headcount has been included.
+Truss began in 2012 as a distributed company, by three founders who led virtual, distributed teams since 2004. We’ve learned, with significant contributions from our employees, how to evolve and scale distributed practices to nearly 100 people in over 20 states and counting. Deciding to be a distributed company continues to be one of our best business decisions.
 
+We’d like to contribute what we’ve learned about distributed work to help you make great decisions in this difficult time. We are mindful that this is a stressful time for all, and we offer this to help you navigate these tricky waters...and perhaps emerge a stronger, more resilient company.
 <!-- toc -->
 
 * [Distributed-playbook](#distributed-playbook)
